@@ -1,6 +1,6 @@
 cask "here-island" do
-  version "2026.8.25.1"
-  sha256 "b61ffc52b5287130394505e1d9f0e10bb4b3f45c250d67c27bff54339326f918"
+  version "2026.8.27"
+  sha256 "5e6b15798d5055d79955881c8204c077016440b3055dd69a6ad4b4a28add3149"
 
   url "https://github.com/locusable-studio/HereIsland/releases/download/v#{version}/HereIsland-#{version}.dmg",
       verified: "github.com/locusable-studio/HereIsland/"
